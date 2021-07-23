@@ -72,6 +72,10 @@
     "link": "smoke effect/index.html"
   },
   {
+    "name": "FAQ Accordion",
+    "link": "FAQ Accordion/index.html"
+  },
+  {
     "name": "Social Media Effects",
     "link": "Social Media Effects/index.html"
   },
@@ -118,5 +122,11 @@
   {
     "name":"Bubble Navbar Animation",
     "link":"Bubble-Navbar-Animation/index.html"
+  },{
+    "name":"Animated Gradient using Pure CSS",
+    "link":"Animated Gradient using Pure CSS/index.html"
+  },{
+    "name":"parallax effect",
+    "link":"parallax effect/index.html"
   }
 ]
